@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ITHB Door</string>
+    <string name="company_name">Company Name</string>
+    <string name="field">Field</string>
+    <string name="location">Location</string>
+    <string name="dev_name">Timotius Haniel</string>
+    <string name="job">Android Developer Trainee</string>
+    <string name="description">An Electrical Engineering undergraduate student at Institut Teknologi Harapan Bangsa with focuses on Mobile Development.
+        Developed a few mobile application using Kotlin and Flutter. Love to work as a team or individually, also have
+        a few experiences leading a team up to 6 peoples. Currently as an Android Developer Trainee at Google Bangkit 2021.</string>
+    <string name="contact_me">Contact Me</string>
+    <string name="linkedin">linkedin.com/in/timotiushaniel/</string>
+    <string name="email">timotius.timmy6@gmail.com</string>
+    <string name="about_me">About Me</string>
+    <string name="message">Message</string>
+    <string name="detail">Detail</string>
+    <string name="company_profile">Company Profile:</string>
+</resources>
